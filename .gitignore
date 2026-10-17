@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.vscode/
+
+# Generated datasets and model artifacts
+chinese-poetry/
+data/
+checkpoints/
+
+# Local logs and caches
+*.log
+.pytest_cache/
